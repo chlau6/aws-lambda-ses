@@ -1,4 +1,4 @@
-package sft;
+package ses;
 
 import com.amazonaws.services.lambda.runtime.Context;
 import com.amazonaws.services.lambda.runtime.RequestStreamHandler;
